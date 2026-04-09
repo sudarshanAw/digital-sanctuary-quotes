@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "quote": "Discipline is choosing between what you want now and what you want most.",
+    "author": "Abraham Lincoln",
+    "category": "Discipline"
+  },
+  {
+    "id": 2,
+    "quote": "The quiet mind is the canvas where reality is painted.",
+    "author": "Elena S. Thorne",
+    "category": "Mindfulness"
+  },
+  {
+    "id": 3,
+    "quote": "We suffer more often in imagination than in reality.",
+    "author": "Seneca",
+    "category": "Wisdom"
+  },
+  {
+    "id": 4,
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Motivation"
+  },
+  {
+    "id": 5,
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "Resilience"
+  },
+  {
+    "id": 6,
+    "quote": "Courage is not the absence of fear, but the triumph over it.",
+    "author": "Nelson Mandela",
+    "category": "Courage"
+  },
+  {
+    "id": 7,
+    "quote": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "category": "Happiness"
+  },
+  {
+    "id": 8,
+    "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+    "author": "Chinese Proverb",
+    "category": "Growth"
+  },
+  {
+    "id": 9,
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Zig Ziglar",
+    "category": "Growth"
+  },
+  {
+    "id": 10,
+    "quote": "Peace comes from within. Do not seek it without.",
+    "author": "Buddha",
+    "category": "Peace"
+  },
+  {
+    "id": 11,
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "Success"
+  },
+  {
+    "id": 12,
+    "quote": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "category": "Mindfulness"
+  },
+  {
+    "id": 13,
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "Perseverance"
+  },
+  {
+    "id": 14,
+    "quote": "Creativity is intelligence having fun.",
+    "author": "Albert Einstein",
+    "category": "Creativity"
+  },
+  {
+    "id": 15,
+    "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+    "author": "John C. Maxwell",
+    "category": "Leadership"
+  },
+  {
+    "id": 16,
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "Resilience"
+  },
+  {
+    "id": 17,
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "Wisdom"
+  },
+  {
+    "id": 18,
+    "quote": "Gratitude turns what we have into enough.",
+    "author": "Melody Beattie",
+    "category": "Gratitude"
+  },
+  {
+    "id": 19,
+    "quote": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins",
+    "category": "Motivation"
+  },
+  {
+    "id": 20,
+    "quote": "Kindness is a language which the deaf can hear and the blind can see.",
+    "author": "Mark Twain",
+    "category": "Kindness"
+  },
+  {
+    "id": 21,
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi",
+    "category": "Strength"
+  },
+  {
+    "id": 22,
+    "quote": "Where there is no struggle, there is no strength.",
+    "author": "Oprah Winfrey",
+    "category": "Strength"
+  },
+  {
+    "id": 23,
+    "quote": "Focus on being productive instead of busy.",
+    "author": "Tim Ferriss",
+    "category": "Focus"
+  },
+  {
+    "id": 24,
+    "quote": "Hope is being able to see that there is light despite all of the darkness.",
+    "author": "Desmond Tutu",
+    "category": "Hope"
+  },
+  {
+    "id": 25,
+    "quote": "The secret of change is to focus all of your energy not on fighting the old, but on building the new.",
+    "author": "Socrates",
+    "category": "Change"
+  },
+  {
+    "id": 26,
+    "quote": "With self-discipline most anything is possible.",
+    "author": "Theodore Roosevelt",
+    "category": "Discipline"
+  },
+  {
+    "id": 27,
+    "quote": "Love is the bridge between you and everything.",
+    "author": "Rumi",
+    "category": "Love"
+  },
+  {
+    "id": 28,
+    "quote": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "category": "Happiness"
+  },
+  {
+    "id": 29,
+    "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "author": "Buddha",
+    "category": "Mindfulness"
+  },
+  {
+    "id": 30,
+    "quote": "The measure of intelligence is the ability to change.",
+    "author": "Albert Einstein",
+    "category": "Change"
+  },
+  {
+    "id": 31,
+    "quote": "Almost everything will work again if you unplug it for a few minutes, including you.",
+    "author": "Anne Lamott",
+    "category": "Peace"
+  },
+  {
+    "id": 32,
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "category": "Motivation"
+  },
+  {
+    "id": 33,
+    "quote": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "Change"
+  },
+  {
+    "id": 34,
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "Wisdom"
+  },
+  {
+    "id": 35,
+    "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+    "author": "Mother Teresa",
+    "category": "Love"
+  },
+  {
+    "id": 36,
+    "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Hope"
+  },
+  {
+    "id": 37,
+    "quote": "Imagination is the beginning of creation. You imagine what you desire.",
+    "author": "George Bernard Shaw",
+    "category": "Creativity"
+  },
+  {
+    "id": 38,
+    "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+    "author": "Thomas Edison",
+    "category": "Perseverance"
+  },
+  {
+    "id": 39,
+    "quote": "Gratitude is not only the greatest of virtues, but the parent of all others.",
+    "author": "Marcus Tullius Cicero",
+    "category": "Gratitude"
+  },
+  {
+    "id": 40,
+    "quote": "The successful warrior is the average man, with laser-like focus.",
+    "author": "Bruce Lee",
+    "category": "Focus"
+  },
+  {
+    "id": 41,
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "Leadership"
+  },
+  {
+    "id": 42,
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "Courage"
+  },
+  {
+    "id": 43,
+    "quote": "Try not to become a man of success. Rather become a man of value.",
+    "author": "Albert Einstein",
+    "category": "Success"
+  },
+  {
+    "id": 44,
+    "quote": "No act of kindness, no matter how small, is ever wasted.",
+    "author": "Aesop",
+    "category": "Kindness"
+  },
+  {
+    "id": 45,
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "Success"
+  },
+  {
+    "id": 46,
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Strength"
+  },
+  {
+    "id": 47,
+    "quote": "Silence is a source of great strength.",
+    "author": "Lao Tzu",
+    "category": "Peace"
+  },
+  {
+    "id": 48,
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Growth"
+  },
+  {
+    "id": 49,
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle",
+    "category": "Happiness"
+  },
+  {
+    "id": 50,
+    "quote": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "Resilience"
+  }
+]
