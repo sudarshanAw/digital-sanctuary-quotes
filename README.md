@@ -1,6 +1,6 @@
 # Digital Sanctuary Quotes
 
-Public JSON data source for the [Digital Sanctuary](https://github.com/sudarshanawasthi47/digital-sanctuary) motivational quote app.
+Public JSON data source for the [Digital Sanctuary](https://github.com/sudarshanAw/digital-sanctuary) motivational quote app.
 
 ## Structure
 
@@ -43,7 +43,7 @@ Public JSON data source for the [Digital Sanctuary](https://github.com/sudarshan
 Raw URL for fetching:
 
 ```
-https://raw.githubusercontent.com/sudarshanawasthi47/digital-sanctuary-quotes/main/quotes.json
+https://raw.githubusercontent.com/sudarshanAw/digital-sanctuary-quotes/main/quotes.json
 ```
 
 ## Contributing
